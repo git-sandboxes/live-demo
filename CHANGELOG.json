@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-15T06:28:47Z",
+    "currentVersion": "0.0.2",
+    "projectTypes": [
+      "spring"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "0.0.2",
+      "project_types": [
+        "spring"
+      ],
+      "date": "2026-10-15",
+      "pr_number": null,
+      "raw_summary": "### 🔧 변경사항\n- add hello.txt\n- commit\n- first-commit",
+      "parsed_changes": {
+        "changes": {
+          "title": "🔧 변경사항",
+          "items": [
+            "add hello.txt",
+            "commit",
+            "first-commit"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
